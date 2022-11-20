@@ -1,5 +1,7 @@
 # PingPongPoof
 
+![PingPongPoof challenge description](https://github.com/Fireye025/Writeups/blob/main/GreHack_2022/pingpongpoof.png "PingPongPoof challenge description")
+
 This week-end I participate to the GreHack 2022. It's my first CTF, so it's my first writeup.
 
 It was in the forensics category. The competences needed were Wireshark and a scripting language.
